@@ -1,0 +1,5 @@
+Anh Phương xấu trai 123
+ add lại những thay đổi ở trong folder git đó thì ta làm như sao :
+1 git add
+2 git commit -m "những mô tả cho thay đổi mới vừa xảy ra"
+3 git push origin master
